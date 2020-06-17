@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="fr" target-language="fr" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="YdnLU54" resname="Blog article's list">
+        <source>Blog article's list</source>
+        <target>Liste des articles du blog</target>
+      </trans-unit>
+      <trans-unit id="6_qa9WY" resname="This is an example of translated text !">
+        <source>This is an example of translated text !</source>
+        <target>Ceci est un exemple de texte traduit !</target>
+      </trans-unit>
+      <trans-unit id="_cncwZP" resname="Available languages :">
+        <source>Available languages :</source>
+        <target>Langues disponibles :</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
