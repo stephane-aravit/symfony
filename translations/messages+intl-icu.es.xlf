@@ -7,15 +7,23 @@
     <body>
       <trans-unit id="6_qa9WY" resname="This is an example of translated text !">
         <source>This is an example of translated text !</source>
-        <target>__This is an example of translated text !</target>
+        <target>Es uno ejemplo de traduccion de texto !</target>
       </trans-unit>
       <trans-unit id="YdnLU54" resname="Blog article's list">
         <source>Blog article's list</source>
-        <target>__Blog article's list</target>
+        <target>Lista de articulo del blog</target>
       </trans-unit>
       <trans-unit id="_cncwZP" resname="Available languages :">
         <source>Available languages :</source>
-        <target>__Available languages :</target>
+        <target>Idiomas disponibles :</target>
+      </trans-unit>
+      <trans-unit id="OnhpU4i" resname="Home">
+        <source>Home</source>
+        <target>Inicio</target>
+      </trans-unit>
+      <trans-unit id="E_lRBci" resname="Welcome to my website">
+        <source>Welcome to my website</source>
+        <target>Bienvenido a mi website</target>
       </trans-unit>
     </body>
   </file>

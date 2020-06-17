@@ -17,6 +17,14 @@
         <source>Available languages :</source>
         <target>Langues disponibles :</target>
       </trans-unit>
+      <trans-unit id="OnhpU4i" resname="Home">
+        <source>Home</source>
+        <target>Accueil</target>
+      </trans-unit>
+      <trans-unit id="E_lRBci" resname="Welcome to my website">
+        <source>Welcome to my website</source>
+        <target>Bienvenue sur mon site web</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
